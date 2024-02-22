@@ -15,6 +15,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Elemento 3
 
 ## Esto e una lista ordenada
-1.- Elemento 1
-2.- Elemento 2
-3.- Elemento 3
+1.-Elemento 1
+2.-Elemento 2
+3.-Elemento 3
