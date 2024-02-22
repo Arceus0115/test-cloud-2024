@@ -3,7 +3,7 @@
 
 
 # Actividad 3.0 Repositorio de Github
-## Subtitulo
+## Descripción del reto
 ### Subtitulo
 
 En el transcurso de cinco semanas buscaremos transformar digitalmente un proceso de Fuego Azteca para que pueda impactar a más beneficiarios o mejorar su eficiencia operativa.
